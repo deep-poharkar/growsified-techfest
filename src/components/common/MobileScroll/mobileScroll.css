@@ -38,15 +38,9 @@
   border-radius: inherit;
 }
 
-.phone-image {
-  background-image: url(./mockup-1.png);
-  height: 414px;
-  width: 579px;
-}
 .mobile-screen-img {
-  background-image: url(./mockup-1.png);
-  height: 414px;
-  width: 579px;
+  height: 100%;
+  width: 100%;
   object-fit: contain;
 }
 

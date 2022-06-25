@@ -15,8 +15,8 @@ const Header = () => {
         className={`mobile-menu only-mobile ${showMobMenu ? "overlay" : ""}`}
       >
         <div className="mobile-navbar">
-          <div className="mobile-nav-item">FREE trial</div>
-          <div className="mobile-nav-item">live communities</div>
+          <div className="mobile-nav-item"> join free </div>
+          <div className="mobile-nav-item"> contact us</div>
         </div>
       </div>
       <div className="max-width flex header">
@@ -40,8 +40,8 @@ const Header = () => {
           </button>
         </div>
         <div className="non-mobile flex">
-          <div className="header-nav-item">FREE trial</div>
-          <div className="header-nav-item">live communities</div>
+          <div className="header-nav-item"> join free</div>
+          <div className="header-nav-item">contact us</div>
         </div>
       </div>
     </div>
